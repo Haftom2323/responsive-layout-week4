@@ -27,8 +27,8 @@ A modern, responsive website layout demonstrating the power of CSS Flexbox and G
 ```
 responsive-layout/
 ├── index.html          # Main HTML file
-├── styles/            
-│   └── main.css       # Main stylesheet
+├── style.css            
+│          
 └── README.md          # This file
 ```
 
